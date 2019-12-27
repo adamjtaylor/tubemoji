@@ -6,7 +6,7 @@ Use the following reference for markdown emoji codes
 https://gist.github.com/rxaviers/7360908
 
 ## Tube map names
-| Original station name | Emoji station name Header |
+| Original station name | Emoji station name  |
 | --------------------- | ------------------------- |
 | Hammersmith           | :hammer:                  |
 | Richmond              | :moneybag::mountain:      |
