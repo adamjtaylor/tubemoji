@@ -9,4 +9,5 @@ https://gist.github.com/rxaviers/7360908
 | Original station name | Emoji station name Header |
 | --------------------- | ------------------------- |
 | Hammersmith           | :hammer:                  |
-| Richmond              | :moneybag::mountain:                       |
+| Richmond              | :moneybag::mountain:      |
+| Ravenscourt Park      | :bird::scales:
