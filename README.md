@@ -115,7 +115,6 @@ https://gist.github.com/rxaviers/7360908
 | Hackney Wick             |                        |
 | Hainault             |                        |
 | Hammersmith (Dist&Picc Line)             | :hammer:                        |
-| Hammersmith (H&C Line)             | :hammer:                       |
 | Hampstead             |                        |
 | Hampstead Heath             |                        |
 | Hanger Lane             |                        |
@@ -151,8 +150,7 @@ https://gist.github.com/rxaviers/7360908
 | Kew Gardens             |                        |
 | Kilburn             |                        |
 | Kilburn Park             |                        |
-| King's Cross St.Pancras             |                        |
-| King's Cross Thameslink             |                        |
+| King's Cross             |     :crown:::heavy_plus_sign:                   |
 | Kingsbury             |                        |
 | Knightsbridge             |                        |
 | Ladbroke Grove             |                        |
