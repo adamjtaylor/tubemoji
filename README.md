@@ -61,7 +61,7 @@ https://gist.github.com/rxaviers/7360908
 | Chigwell             |                        |
 | Chiswick Park             |                        |
 | Chorleywood             |                        |
-| City Thameslink             |   :city::left_right_arrow::river:                     |
+| City Thameslink             |   :city_sunrise::left_right_arrow::rowboat:                     |
 | Clapham Common             |                        |
 | Clapham North             |   :clap::pig::arrow_up:                     |
 | Clapham South             | :clap::pig::arrow_down:                         |
