@@ -6,8 +6,11 @@ Use the following reference for markdown emoji codes
 https://gist.github.com/rxaviers/7360908
 
 ## Tube map names
-| Original station name | Emoji station name  |
+| Original station name | Emoji station name        |
 | --------------------- | ------------------------- |
 | Hammersmith           | :hammer:                  |
 | Richmond              | :moneybag::mountain:      |
-| Ravenscourt Park      | :bird::scales:            |
+| Ravenscourt Park      | :bird: :scales:           |
+| Farringdon            |  TBD                        |
+| Another place            |    TBD                      |
+| Finchley Central      |      TBD                    |
