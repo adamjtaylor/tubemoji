@@ -10,7 +10,6 @@ https://gist.github.com/rxaviers/7360908
 | --------------------- | ------------------------- |
 | Acton Town             |                        |
 | Acton Central             |                        |
-| Acton Central             |                        |
 | Aldgate             |                        |
 | Aldgate East             |                        |
 | Alperton             |                        |
@@ -19,7 +18,6 @@ https://gist.github.com/rxaviers/7360908
 | Archway             |                        |
 | Arnos Grove             |                        |
 | Arsenal             |                        |
-| Baker Street             |                        |
 | Baker Street             |                        |
 | Balham             |                        |
 | Bank             |                        |
@@ -65,8 +63,8 @@ https://gist.github.com/rxaviers/7360908
 | Chorleywood             |                        |
 | City Thameslink             |                        |
 | Clapham Common             |                        |
-| Clapham North             |                        |
-| Clapham South             |                        |
+| Clapham North             |   :clap::pig::arrow_up:                     |
+| Clapham South             | :clap::pig::arrow_down:                         |
 | Cockfosters             |                        |
 | Colindale             |                        |
 | Colliers Wood             |                        |
