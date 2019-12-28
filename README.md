@@ -14,14 +14,14 @@ https://gist.github.com/rxaviers/7360908
 | Aldgate East             |                        |
 | Alperton             |                        |
 | Amersham             |                        |
-| Angel             |                        |
+| Angel             |  :angel:                      |
 | Archway             |                        |
 | Arnos Grove             |                        |
 | Arsenal             |                        |
 | Baker Street             |                        |
 | Balham             |                        |
 | Bank             |                        |
-| Barbican             |                        |
+| Barbican             |    :european_castle:                   |
 | Barking             |                        |
 | Barkingside             |                        |
 | Barons Court             |                        |
@@ -86,7 +86,7 @@ https://gist.github.com/rxaviers/7360908
 | Edgware             |                        |
 | Edgware Road (Bakerloo Line)             |                        |
 | Edgware Road (Circle Line)             |                        |
-| Elephant & Castle             |                        |
+| Elephant & Castle             |    :elephant::european_castle:                    |
 | Elm Park             |                        |
 | Embankment             |                        |
 | Epping             |                        |
