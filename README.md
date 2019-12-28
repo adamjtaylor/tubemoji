@@ -8,9 +8,6 @@ https://gist.github.com/rxaviers/7360908
 ## Tube map names
 | Original station name | Emoji station name        |
 | --------------------- | ------------------------- |
-| Hammersmith           | :hammer:                  |
-| Richmond              | :moneybag::mountain:      |
-| Ravenscourt Park      | :bird: :scales:           |
 | Acton Town             |                        |
 | Acton Central             |                        |
 | Acton Central             |                        |
@@ -119,8 +116,8 @@ https://gist.github.com/rxaviers/7360908
 | Hackney Central             |                        |
 | Hackney Wick             |                        |
 | Hainault             |                        |
-| Hammersmith (Dist&Picc Line)             |                        |
-| Hammersmith (H&C Line)             |                        |
+| Hammersmith (Dist&Picc Line)             | :hammer:                        |
+| Hammersmith (H&C Line)             | :hammer:                       |
 | Hampstead             |                        |
 | Hampstead Heath             |                        |
 | Hanger Lane             |                        |
@@ -221,8 +218,8 @@ https://gist.github.com/rxaviers/7360908
 | Rayners Lane             |                        |
 | Redbridge             |                        |
 | Regent's Park             |                        |
-| Richmond             |                        |
-| Richmond             |                        |
+| Richmond             |    :moneybag::mountain:                    |
+| Richmond             |    :moneybag::mountain:                    |
 | Rickmansworth             |                        |
 | Roding Valley             |                        |
 | Rotherhithe             |                        |
