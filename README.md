@@ -22,34 +22,34 @@ https://gist.github.com/rxaviers/7360908
 | Balham             |                        |
 | Bank             |                        |
 | Barbican             |    :european_castle:                   |
-| Barking             |                        |
-| Barkingside             |                        |
+| Barking             |    :dog::sound:                   |
+| Barkingside             |    :dog::sound::apple::beer:                     |
 | Barons Court             |                        |
 | Bayswater             |                        |
-| Becontree             |                        |
+| Becontree             |        :fire::deciduous_tree:                |
 | Belsize Park             |                        |
 | Bermondsey             |                        |
 | Bethnal Green             |                        |
-| Blackfriars             |                        |
-| Blackhorse Road             |                        |
+| Blackfriars             |   :black_circle::church:                     |
+| Blackhorse Road             |      black_circle::horse:                  |
 | Bond Street             |                        |
 | Borough             |                        |
 | Boston Manor             |                        |
 | Bounds Green             |                        |
-| Bow Road             |                        |
+| Bow Road             |      :bowtie:                  |
 | Brent Cross             |                        |
 | Brixton             |                        |
 | Bromley-by-Bow             |                        |
 | Brondesbury             |                        |
 | Brondesbury Park             |                        |
 | Buckhurst Hill             |                        |
-| Burnt Oak             |                        |
+| Burnt Oak             |       :fire::deciduous_tree:                 |
 | Caledonian Road             |                        |
 | Caledonian Road & Barnesbury             |                        |
 | Camden Road             |                        |
 | Camden Town             |                        |
 | Canada Water             |                        |
-| Canary Wharf             |                        |
+| Canary Wharf             |    :bird: :ship:                   |
 | Cannon Street             |                        |
 | Canonbury             |                        |
 | Canons Park             |                        |
@@ -79,8 +79,8 @@ https://gist.github.com/rxaviers/7360908
 | Ealing Common             |                        |
 | Earl's Court             |                        |
 | East Acton             |                        |
-| East Finchley             |                        |
-| East Ham             |                        |
+| East Finchley             |   :arrow_right::bird:                     |
+| East Ham             |       :arrow_right::pig:                 |
 | East Putney             |                        |
 | Eastcote             |                        |
 | Edgware             |                        |
@@ -103,9 +103,9 @@ https://gist.github.com/rxaviers/7360908
 | Gants Hill             |                        |
 | Gloucester Road             |                        |
 | Golders Green             |                        |
-| Goldhawk Road             |                        |
+| Goldhawk Road             |     :yellow_heart::bird:                   |
 | Goodge Street             |                        |
-| Gospel Oak             |                        |
+| Gospel Oak             |  :book::heavy_plus_sign::deciduous_tree:                     |
 | Grange Hill             |                        |
 | Great Portland Street             |                        |
 | Greenford             |                        |
